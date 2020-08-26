@@ -18,18 +18,39 @@ Major: Information Security of Automated Systems.
 
 ### Languages and Tools:
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/opengl.svg" />]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg" />]
 
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/opengl.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/trello.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" />
+
+<br />
+<br />
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  ![NewBediver's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=NewBediver&show_icons=true&hide_border=true&theme=radical)
+
+</details>
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 [university]: https://knastu.ru
 [educationctf]: http://educationctf.ru:8080
