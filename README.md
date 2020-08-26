@@ -48,6 +48,21 @@ and [UVa][uva]
 
 <br />
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  ![NewBediver's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=NewBediver&show_icons=true&hide_border=true&theme=radical)
+
+</details>
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 [university]: https://knastu.ru
 
 [educationctf]: http://educationctf.ru:8080
