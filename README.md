@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ## I'm a fifth-year student at Komsomolsk-on-Amur State University (KnASU).
-# Department of Computer Technologies.
-# Major: Information Security of Automated Systems.
+Department of Computer Technologies.
+Major: Information Security of Automated Systems.
 
 - 🔭 I’m currently studing at [University][university]!
 - 🎓 Together with a teacher, we developed a [Website][educationctf]
@@ -13,9 +13,6 @@
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />]serikov_v1999@mail.ru
-
-<br />
 
 <br />
 
