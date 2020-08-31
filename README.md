@@ -55,15 +55,6 @@ and [UVa][uva]
 
 </details>
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//NewBediver/SharpLibrary/pull/1) in [NewBediver/SharpLibrary](https://github.com//NewBediver/SharpLibrary)
-<!--END_SECTION:activity-->
-
-</details>
-
 [university]: https://knastu.ru
 
 [educationctf]: http://educationctf.ru:8080
