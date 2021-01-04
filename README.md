@@ -2,12 +2,14 @@
 
 I'm a fifth-year student at [Komsomolsk-on-Amur State University (KnASU)][university]. Department of Computer Technologies. Major: Information Security of Automated Systems.
 
+At present I'm working as a Software Engineer at [MyTona][mytona]. We are making mobile games and my position is C++ Game Programmer.
+
 I consider myself as a smart worker and determined team player. My specialty is not closely related to software creation, but in my spare time I like to program. I love C++, C# and a little assembler 🤣. I am familiar with Web development (ASP.Net Core) and Desktop development (Qt Framework). I am currently working on [FarLight game engine][farlight].
 
 - 🔭 I’m currently studing at [University][university]!
 - 🎓 Together with a teacher, we developed an [educational website][educationctf]
 - 🌱 I’m currently passionate about game engine programming, algorithms and mathematics. 😃
-- 🥅 2020 Goals: Contribute more to my game engine [FarLight][farlight]
+- 🥅 2021 Goals: Contribute more to my game engine [FarLight][farlight] and graduate from the University.
 - ⚡ Fun fact: I love to play guitar 🎸
 
 ### Connect with me:
@@ -56,6 +58,7 @@ and [UVa][uva]
 </details>
 
 [university]: https://knastu.ru
+[mytona]: https://mytona.ru
 
 [educationctf]: http://educationctf.ru:8080
 [farlight]: https://github.com/NewBediver/FarLight
