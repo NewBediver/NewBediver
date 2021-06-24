@@ -35,17 +35,6 @@ I consider myself as a smart worker and determined team player. My specialty is 
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/trello.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" />
 
-<br />
-
-<br />
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  ![NewBediver's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=NewBediver&show_icons=true&hide_border=true&theme=radical)
-
-</details>
-
 [mytona]: https://mytona.ru
 [cooking_diary]: https://cookingdiary.game/
 [cooking_diary_gp]: https://play.google.com/store/apps/details?id=com.mytona.cookingdiary.android
