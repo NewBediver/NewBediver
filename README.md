@@ -4,7 +4,7 @@ At present I'm working as a Software Engineer at [MyTona][mytona]. We are making
 
 I was a student at [Komsomolsk-on-Amur State University (KnASU)][university]. Department of Computer Technologies. Major: Information Security of Automated Systems. I graduated in 2021. The topic of my graduation work is ["Development of a certification authority with GOST 34.10-2018 support"][graduation_work].
 
-I consider myself as a smart worker and determined team player. My university degree is not closely related to software engineering, but in my spare time I like to program. I love C++, C# and a little assembler 🤣. I am familiar with Game Engine development, Web development (ASP.Net Core) and Desktop development (Qt Framework). In my spare time I am working on [FarLight game engine][farlight].
+I consider myself as a responsible worker and determined team player. My university degree is not closely related to software engineering, but in my spare time I like to program. I love C++, C# and a little assembler 🤣. I am familiar with Game Engine development, Web development (ASP.Net Core) and Desktop development (Qt Framework). In my spare time I am working on [FarLight game engine][farlight].
 
 - 🌱 I’m currently passionate about game engine programming, algorithms and mathematics. 😃
 - 🎓 Together with my university lecturer, we developed an [educational website][educationctf]
