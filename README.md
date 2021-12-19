@@ -1,12 +1,14 @@
 ### Hi there, I'm Vladislav Serikov 👋
 
-At present I'm working as a Software Engineer at [MyTona][mytona]. We are making games and my position is C++ Gameplay and Graphics Programmer at [Cooking Diary][cooking_diary] ([Google Play][cooking_diary_gp], [App Store][cooking_diary_ios], [Microsoft Store][cooking_diary_microsoft], [Amazon][cooking_diary_amazon]). Previously worked at Riddleside: Fading Legacy ([Google Play][riddleside_gp], [App Store][riddleside_ios]).
+At present I'm working at [Yandex][yandex]. We builds intelligent products and services powered by machine learning. My position is Software Engineer at [Yandex.Cloud][yandex_cloud]. My team develops [Network Block Storage][NBS_youtube] (similar to EBS) for Yandex.Cloud.
 
-I was a student at [Komsomolsk-on-Amur State University (KnASU)][university]. Department of Computer Technologies. Major: Information Security of Automated Systems. I graduated in 2021. The topic of my graduation work is ["Development of a certification authority with GOST 34.10-2018 support"][graduation_work].
+Previously I worked as a Software Engineer at [MyTona][mytona]. We were making games and my position was C++ Gameplay and Graphics Programmer at [Cooking Diary][cooking_diary] ([Google Play][cooking_diary_gp], [App Store][cooking_diary_ios], [Microsoft Store][cooking_diary_microsoft], [Amazon][cooking_diary_amazon]). I also worked at Riddleside: Fading Legacy ([Google Play][riddleside_gp], [App Store][riddleside_ios]).
+
+I graduated from [Komsomolsk-on-Amur State University (KnASU)][university] at 2021. I studied at the Department of Computer Science. My specialty is "Information security of automated systems". The topic of my thesis is ["Development of a certification authority with GOST 34.10-2018 support"][graduation_work].
 
 I consider myself as a responsible worker and determined team player. My university degree is not closely related to software engineering, but in my spare time I like to program. I love C++, C# and a little assembler 🤣. I am familiar with Game Engine development, Web development (ASP.Net Core) and Desktop development (Qt Framework). In my spare time I am working on [FarLight game engine][farlight].
 
-- 🌱 I’m currently passionate about game engine programming, algorithms and mathematics. 😃
+- 🌱 I’m currently passionate about low-level and infrastructure programming. I also interested in game engine programming, algorithms and mathematics. 😃
 - 🎓 Together with my university lecturer, we developed an [educational website][educationctf]
 - ⚡ Fun fact: I love to play guitar 🎸
 
@@ -35,6 +37,9 @@ I consider myself as a responsible worker and determined team player. My univers
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/trello.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" />
 
+[yandex]: https://yandex.com/company/
+[yandex_cloud]: https://cloud.yandex.ru/
+[NBS_youtube]: https://www.youtube.com/watch?v=6STKiynppK0&t=4s
 [mytona]: https://mytona.ru
 [cooking_diary]: https://cookingdiary.game/
 [cooking_diary_gp]: https://play.google.com/store/apps/details?id=com.mytona.cookingdiary.android
