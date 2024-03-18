@@ -1,6 +1,8 @@
 ### Hi there, I'm Vladislav Serikov 👋
 
-At present I'm working at [Yandex][yandex]. We build intelligent products and services powered by machine learning. My position is Software Engineer at [Yandex.Cloud][yandex_cloud]. My team develops [Network Block Storage][NBS_youtube] (similar to EBS) for Yandex.Cloud.
+At present I'm working at [VK][vk]. We make distributed fault-tolerant databases for different needs of [VKontakte][vkontakte] social network (storage of messages, passwords, logs, pictures, music and etc.). My position is Software Engineer in the Database team. Vkontakte is the largest social network in Russia and CIS with MAU of 100M users
+
+Previously, I worked at [Yandex][yandex] for 2.5 years. We built intelligent products and services powered by machine learning. My position was Software Engineer at [Yandex.Cloud][yandex_cloud]. My team developed [Network Block Storage][NBS_youtube] (similar to EBS) for Yandex.Cloud.
 
 Previously I worked as a Software Engineer at [MyTona][mytona]. We were making games and my position was C++ Gameplay and Graphics Programmer at [Cooking Diary][cooking_diary] ([Google Play][cooking_diary_gp], [App Store][cooking_diary_ios], [Microsoft Store][cooking_diary_microsoft], [Amazon][cooking_diary_amazon]). I also worked at Riddleside: Fading Legacy ([Google Play][riddleside_gp], [App Store][riddleside_ios]).
 
@@ -37,6 +39,8 @@ I consider myself as a responsible worker and determined team player. My univers
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/trello.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" />
 
+[vk]: https://vk.company
+[vkontakte]: https://vk.com
 [yandex]: https://yandex.com/company/
 [yandex_cloud]: https://cloud.yandex.ru/
 [NBS_youtube]: https://www.youtube.com/watch?v=6STKiynppK0&t=4s
